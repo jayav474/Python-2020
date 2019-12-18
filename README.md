@@ -1,2 +1,7 @@
 # Python-2020
-This is repo where I will see how to create new profile
+This is repo my first repo.
+
+.point 1
+.point2
+
+print ('hello world')
